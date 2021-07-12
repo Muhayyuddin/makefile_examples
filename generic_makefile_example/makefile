@@ -1,5 +1,5 @@
 # 'specify that the the name of the final executable will be run.out'
-TARGET ?= run.out
+TARGET ?= output
 # 'assigning name to the project directories'
 BUILD_DIR ?= ./build
 SRC_DIRS ?= ./src
